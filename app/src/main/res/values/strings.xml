@@ -1,9 +1,11 @@
 <resources>
+
     <string name="app_name">Github Test</string>
 
 
-    <string name="hello_world">Hello Github Test from Brian and Hiromi and Pawanjit</string>
+    <string name="hello_world">Hello Github Test from Debra and Brian and Hiromi and Pawanjit</string>
 
 
     <string name="action_settings">Settings</string>
+
 </resources>
